@@ -1,0 +1,7 @@
+C:\Users\johan\source\repos\Virusepidimi\bin\Debug\Virusepidimi.exe.config
+C:\Users\johan\source\repos\Virusepidimi\bin\Debug\Virusepidimi.exe
+C:\Users\johan\source\repos\Virusepidimi\bin\Debug\Virusepidimi.pdb
+C:\Users\johan\source\repos\Virusepidimi\obj\Debug\Virusepidimi.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\Virusepidimi\obj\Debug\Virusepidimi.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Virusepidimi\obj\Debug\Virusepidimi.exe
+C:\Users\johan\source\repos\Virusepidimi\obj\Debug\Virusepidimi.pdb
